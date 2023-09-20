@@ -1,6 +1,6 @@
 I make financial software. Currently, I'm working on disrupting Bloomberg with a better, cheaper, and [web-based terminal](https://v3.godelnum.com): 
 
-Previously I worked in the Asset Management space, where I wrote software that still directs over $1.9 Billion dolalrs. 
+Previously I worked in asset management (ETFs), where I solo-developed software that directs over $1.9 Billion dollars. 
 
 ### Open Source Contributions
 Below are some open source projects I've contributed to: 
