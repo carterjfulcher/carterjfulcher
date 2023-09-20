@@ -1,6 +1,4 @@
-I make financial software. Currently, I'm working on disrupting Bloomberg with a better, cheaper, and web-based terminal: 
-
-![alt](https://pbs.twimg.com/media/F6Wm_5La4AASUtt?format=jpg&name=medium)
+I make financial software. Currently, I'm working on disrupting Bloomberg with a better, cheaper, and [web-based terminal](https://v3.godelnum.com): 
 
 Previously I worked in the Asset Management space, where I wrote software that still directs over $1.9 Billion dolalrs. 
 
