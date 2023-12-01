@@ -1,4 +1,4 @@
-I make financial software. Currently, I'm working on disrupting Bloomberg with a better, cheaper, and [web-based terminal](https://v3.godelnum.com): 
+I make high performance software. Currently, I'm working on disrupting Bloomberg with a better, cheaper, and [web-based terminal](https://v3.godelnum.com): 
 
 Previously I worked in asset management (ETFs), where I solo-developed software that directs over $1.9 Billion dollars. 
 
