@@ -1,6 +1,6 @@
 I make high performance software. Currently, I'm working on LLMs and Investment Software. 
 
-Previously I worked in asset management (ETFs), where I solo-developed software that directs over $1.9 Billion dollars. 
+Previously I worked on Wall St. at a mid stage startup where I solo-developed software that directs over $1.9 Billion dollars.
 
 I also run a family private equity firm holding real estate, commerical equipment, and long/short equity positions. 
 
