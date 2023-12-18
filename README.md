@@ -1,4 +1,4 @@
-I make high performance software. Currently, I'm working on LLMs and Investment Software. 
+I make high performance software. Currently, I'm working on LLMs and Trading Software. 
 
 Previously I worked on Wall St. at a mid stage startup where I solo-developed software that directs over $1.9 Billion dollars.
 
