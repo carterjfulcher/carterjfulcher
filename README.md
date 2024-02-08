@@ -9,3 +9,5 @@ Below are some open source projects I've contributed to in my free time:
 - <img src="https://www.astronomer.io/monogram/astronomer-monogram-RGB-600px.png" width=15 /> [Ask Astronomer](https://github.com/astronomer/ask-astro)
 - <img src="https://pandas.pydata.org//static/img/favicon_white.ico" width=15 /> [Pandas Market Calendars](https://github.com/rsheftel/pandas_market_calendars)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width=15> [Tiny Profiler](https://github.com/carterjfulcher/tinyprofiler) 
+
+Contract me via discord `@carterjfulcher` or via email, `carter@fulcher.io` 
